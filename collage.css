@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container{
+    background-image:url("/images/globe_map_travel_125607_3840x2400.jpg");
+    height: 100vh;
+    background-size: cover;
+    
+}
+.tourism-card{
+    text-align:center;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding:10px;
+
+}
+.paragraph{
+    font-size:17px;
+}
+.button{
+    background-color:#25b1cc;
+    color:white;
+    border-radius: 20px;
+    border-width:0px;
+    height: 40px;
+    width: 140px;
+
+}
+
+.favourite-places-bg-container{
+    background-image:url("/images/wp2589237-sky-blue-background\ \(1\).jpg");
+    height: 855px;
+    background-size: cover;
+
+}
+.favourite-places-heading{
+    color:white;
+    font-size: 35px;
+    font-weight:bold;
+    padding: 25px;
+    font-family: "Roboto";
+
+}
+
+.favourite-places-card-container{
+    background-color: white;
+    border-radius: 9px;
+    padding:20px;
+    margin:20px;
+    
+
+}
+
+.favourite-places-card-heading{
+    color:#0f0e46;
+    font-size:28px;
+
+}
+
+.favourite-places-card-description{
+
+    font-size:15px;
+}
+
+.favourite-places-card-image{
+    width:160px;
+    height:110px;
+
+}
+
+.favourite-places-back-button{
+    margin:10px;
+}
+
+
+
+.detailed-view-bg-container{
+    background-image:url("/images/wp2589237-sky-blue-background\ \(1\).jpg");
+    background-size:cover;
+    height: 180vh;
+
+}
+
+.detailed-view-main-heading{
+    color: white;
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 25px;
+   
+}
+
+.detailed-view-card-container{
+    background-color: white;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin:170px;
+    margin-top:50px ;
+    margin-left:120px;
+    margin-right:120px;
+    
+
+    
+}
+
+.detailed-text-container{
+    padding: 40px;
+
+}
+
+.detailed-text-container-main-heading{
+    padding:2px ;
+}
+
+.paragraph{
+    padding:25px ;
+    font-size: 19px;
+
+}
+.detailed-list-description{
+    font-size: 18px;
+    padding-left:80px ;
+
+
+}
+
+.detailed-view-back-button{
+    margin:10px;
+}

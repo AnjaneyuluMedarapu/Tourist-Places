@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.detailed-view-bg-container{
+    background-image:url("/images/wp2589237-sky-blue-background\ \(1\).jpg");
+    background-size:cover;
+    height: 180vh;
+
+}
+
+.detailed-view-main-heading{
+    color: white;
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 25px;
+   
+}
+
+.detailed-view-card-container{
+    background-color: white;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin:170px;
+    margin-top:50px ;
+    margin-left:120px;
+    margin-right:120px;
+    
+
+    
+}
+
+.detailed-text-container{
+    padding: 40px;
+
+}
+
+.detailed-text-container-main-heading{
+    padding:2px ;
+}
+
+.paragraph{
+    padding:25px ;
+    font-size: 19px;
+}
